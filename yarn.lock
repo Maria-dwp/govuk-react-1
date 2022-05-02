@@ -2392,13 +2392,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@govuk-react/icon-crown@npm:0.0.5":
-  version: 0.0.5
-  resolution: "@govuk-react/icon-crown@npm:0.0.5"
+"@govuk-react/icon-crown@npm:0.0.7":
+  version: 0.0.7
+  resolution: "@govuk-react/icon-crown@npm:0.0.7"
   peerDependencies:
-    prop-types: ">=15"
     react: ">=16.2.0"
-  checksum: f3e874af9805482de0da4bcdf6f71f9bfafcc76fa9981aa91652bb710243032568971abef8e05455b91bd7eb20911c0eb023da7e864e42c659d1f53c398afe0d
+  checksum: d3e7c39181f36114acb30e934c06850cf911972aa48b37d28501d8793caf3261baf216e7d416ef386387ecae2d326fe9a7ca20654a4eda28eafbae6d05f1ab1c
   languageName: node
   linkType: hard
 
@@ -2956,7 +2955,7 @@ __metadata:
   dependencies:
     "@govuk-react/button": ^0.10.1
     "@govuk-react/constants": ^0.10.1
-    "@govuk-react/icon-crown": 0.0.5
+    "@govuk-react/icon-crown": 0.0.7
     "@govuk-react/icons": ^0.10.1
     "@govuk-react/lib": ^0.10.1
     "@govuk-react/search-box": ^0.10.1
